@@ -4,7 +4,7 @@ using Tel.Egram.ViewModels.Workspace;
 
 namespace Tel.Egram.Views.Workspace;
 
-public class WorkspaceControl : BaseControl<WorkspaceModel>
+public class WorkspaceControl : BaseControl<WorkspaceViewModel>
 {
     public WorkspaceControl()
     {

@@ -4,7 +4,7 @@ using Tel.Egram.ViewModels.Popups;
 
 namespace Tel.Egram.Views.Popups;
 
-public class PopupControl : BaseControl<PopupModel>
+public class PopupControl : BaseControl<PopupViewModel>
 {
     public PopupControl()
     {

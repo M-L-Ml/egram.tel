@@ -7,7 +7,7 @@ using Avalonia.Markup.Xaml;
 using ReactiveUI;
 using Tel.Egram.Services.Utils.Reactive;
 using Tel.Egram.ViewModels.Messaging.Explorer;
-using Range = Tel.Egram.Services.Utils.Range;
+using Range = System.Range;
 
 namespace Tel.Egram.Views.Messenger.Explorer;
 

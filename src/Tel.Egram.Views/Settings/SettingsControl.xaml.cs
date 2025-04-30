@@ -3,7 +3,7 @@ using Tel.Egram.ViewModels.Settings;
 
 namespace Tel.Egram.Views.Settings;
 
-public class SettingsControl : BaseControl<SettingsModel>
+public class SettingsControl : BaseControl<SettingsViewModel>
 {
     public SettingsControl()
     {
