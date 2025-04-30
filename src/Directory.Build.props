@@ -1,0 +1,15 @@
+<Project>  
+ <ItemGroup>  
+   <!--<PackageReference Include="Avalonia"/>  
+   <PackageReference Include="Avalonia.Desktop"/>  
+   <PackageReference Include="Avalonia.Fonts.Inter"/>  
+   <PackageReference Include="Avalonia.Themes.Fluent"/>  
+   <PackageReference Include="Avalonia.Diagnostics" Condition="'$(Configuration)' == 'Debug'" />  
+   <PackageReference Include="Avalonia.AvaloniaEdit"/>  
+   <PackageReference Include="AvaloniaEdit.TextMate"/>  -->
+  </ItemGroup>  
+  <PropertyGroup>
+    <!--suppress null related warnings-->
+    <NoWarn>CS8600;CS8601;CS8602;CS8603;CS8604,CS8618,CS8625</NoWarn>
+  </PropertyGroup>
+</Project>
