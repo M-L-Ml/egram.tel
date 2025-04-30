@@ -36,4 +36,9 @@ public static class ObservableExtensions
     {
         return observable.Subscribe(_ => { }, e => Console.Error.WriteLine(e));
     }
+    public static IDisposable Accept<T>(this IObservable<T> source, Action<T> action)
+    {
+        //this fixes just compilation of calls to obscure Accept method of not complated code , TODO: explain
+        return source.Subscribe(action);
+    }
 }
