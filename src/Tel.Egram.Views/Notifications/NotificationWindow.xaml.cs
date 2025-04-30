@@ -2,7 +2,7 @@
 using Avalonia.Markup.Xaml;
 using ReactiveUI;
 using Tel.Egram.Model.Notifications;
-using Tel.Egran.ViewModels.Notifications;
+using Tel.Egram.ViewModels.Notifications;
 
 namespace Tel.Egram.Views.Notifications;
 

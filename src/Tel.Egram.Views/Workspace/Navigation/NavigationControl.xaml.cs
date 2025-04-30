@@ -1,5 +1,5 @@
 ﻿using Avalonia.Markup.Xaml;
-using Tel.Egran.ViewModels.Workspace.Navigation;
+using Tel.Egram.ViewModels.Workspace.Navigation;
 
 namespace Tel.Egram.Views.Workspace.Navigation;
 

@@ -5,7 +5,7 @@
     xmlns:workspace="clr-namespace:Tel.Egram.Views.Workspace"
     xmlns:startup="clr-namespace:Tel.Egram.Views.Startup"
     xmlns:popups="clr-namespace:Tel.Egram.Views.Popups"
-    xmlns:application1="clr-namespace:Tel.Egran.ViewModels.Application;assembly=Tel.Egran.ViewModels"
+    xmlns:application1="clr-namespace:Tel.Egram.ViewModels.Application;assembly=Tel.Egram.ViewModels"
     x:Class="Tel.Egram.Views.Application.MainWindow"
     Width="800"
     Height="600"

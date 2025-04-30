@@ -1,7 +1,7 @@
 ﻿<Window
     xmlns="https://github.com/avaloniaui"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:notifications="clr-namespace:Tel.Egran.ViewModels.Notifications;assembly=Tel.Egran.ViewModels"
+    xmlns:notifications="clr-namespace:Tel.Egram.ViewModels.Notifications;assembly=Tel.Egram.ViewModels"
     Width="260"
     Height="60"
     MinWidth="260"

@@ -2,8 +2,8 @@
     xmlns="https://github.com/avaloniaui"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:proxy1="clr-namespace:Tel.Egram.Views.Popups.Proxy"
-    xmlns:popups="clr-namespace:Tel.Egran.ViewModels.Popups;assembly=Tel.Egran.ViewModels"
-    xmlns:proxy2="clr-namespace:Tel.Egran.ViewModels.Settings.Proxy;assembly=Tel.Egran.ViewModels"
+    xmlns:popups="clr-namespace:Tel.Egram.ViewModels.Popups;assembly=Tel.Egram.ViewModels"
+    xmlns:proxy2="clr-namespace:Tel.Egram.ViewModels.Settings.Proxy;assembly=Tel.Egram.ViewModels"
     x:Class="Tel.Egram.Views.Popups.PopupControl">
     
     <Design.DataContext>

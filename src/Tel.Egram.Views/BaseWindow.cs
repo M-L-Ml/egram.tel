@@ -1,5 +1,5 @@
 using Avalonia.Controls;
-using Tel.Egran.ViewModels;
+using Tel.Egram.ViewModels;
 
 namespace Tel.Egram.Views;
 

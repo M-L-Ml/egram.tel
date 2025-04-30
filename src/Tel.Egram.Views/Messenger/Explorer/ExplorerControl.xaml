@@ -5,10 +5,10 @@
     xmlns:visual1="clr-namespace:Tel.Egram.Views.Messenger.Explorer.Messages.Visual"
     xmlns:special1="clr-namespace:Tel.Egram.Views.Messenger.Explorer.Messages.Special"
     xmlns:model="clr-namespace:Tel.Egram.Model.Messaging.Explorer.Messages;assembly=Tel.Egram.Model"
-    xmlns:basic="clr-namespace:Tel.Egran.ViewModels.Messaging.Explorer.Messages.Basic;assembly=Tel.Egran.ViewModels"
-    xmlns:visual2="clr-namespace:Tel.Egran.ViewModels.Messaging.Explorer.Messages.Visual;assembly=Tel.Egran.ViewModels"
-    xmlns:special="clr-namespace:Tel.Egran.ViewModels.Messaging.Explorer.Messages.Special;assembly=Tel.Egran.ViewModels"
-    xmlns:explorer="clr-namespace:Tel.Egran.ViewModels.Messaging.Explorer;assembly=Tel.Egran.ViewModels"
+    xmlns:basic="clr-namespace:Tel.Egram.ViewModels.Messaging.Explorer.Messages.Basic;assembly=Tel.Egram.ViewModels"
+    xmlns:visual2="clr-namespace:Tel.Egram.ViewModels.Messaging.Explorer.Messages.Visual;assembly=Tel.Egram.ViewModels"
+    xmlns:special="clr-namespace:Tel.Egram.ViewModels.Messaging.Explorer.Messages.Special;assembly=Tel.Egram.ViewModels"
+    xmlns:explorer="clr-namespace:Tel.Egram.ViewModels.Messaging.Explorer;assembly=Tel.Egram.ViewModels"
     x:Class="Tel.Egram.Views.Messenger.Explorer.ExplorerControl">
     
     <Design.DataContext>

@@ -1,7 +1,7 @@
 ﻿<UserControl
     xmlns="https://github.com/avaloniaui"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:editor="clr-namespace:Tel.Egran.ViewModels.Messaging.Editor;assembly=Tel.Egran.ViewModels"
+    xmlns:editor="clr-namespace:Tel.Egram.ViewModels.Messaging.Editor;assembly=Tel.Egram.ViewModels"
     x:Class="Tel.Egram.Views.Messenger.Editor.EditorControl">
     
     <Design.DataContext>

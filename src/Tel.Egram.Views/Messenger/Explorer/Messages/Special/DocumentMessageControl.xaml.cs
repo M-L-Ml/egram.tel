@@ -1,5 +1,5 @@
 ﻿using Avalonia.Markup.Xaml;
-using Tel.Egran.ViewModels.Messaging.Explorer.Messages.Special;
+using Tel.Egram.ViewModels.Messaging.Explorer.Messages.Special;
 
 namespace Tel.Egram.Views.Messenger.Explorer.Messages.Special;
 

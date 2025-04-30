@@ -1,6 +1,6 @@
 ﻿using Avalonia.Markup.Xaml;
 using Tel.Egram.Model.Popups;
-using Tel.Egran.ViewModels.Popups;
+using Tel.Egram.ViewModels.Popups;
 
 namespace Tel.Egram.Views.Popups;
 
